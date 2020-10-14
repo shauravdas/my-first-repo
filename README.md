@@ -1,26 +1,25 @@
-# This is a large heading
+# Shaurav Das
 
-## This is a smaller heading
+### Geography
 
-And as **imagination** bodies forth, the forms of *things unknown,* the poet's pen,
-Turns them into shapes and gives them airy nothing,
-A local *habitation* and a **name**
+I live in the city of Mumbai, in the state of Maharashtra, in India.
 
-- This is
-- an unordered
-- list
+### Reading
 
-1. This is
-2. an ordered
-3. list
+Three of my favorite books are:
 
-Here is `some code` in the middle of a sentence
+- *Five Point Someone* by Chetan Bhagat
+- *The Power of NOW* by Eckhart Tolle
+- *Becoming Supernatural* by Joe Dispenza
 
-```
-This is 
-a block 
-of code
-```
+### Food
 
-Here is how you make [a link](https://github.com/).
+Last night I dreamt of eating in these restaurants:
 
+1. The Irish House in Phoenix Marketcity
+2. Capital Social in BKC
+3. Rainforest in Phoenix Marketcity
+
+### COntact
+
+The best way to get in touch with me is [on LinkedIn](https://in.linkedin.com/).
