@@ -1,2 +1,0 @@
-First entry of File1.
-Second entry of File1 from update-readme branch
